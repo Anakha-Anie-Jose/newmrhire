@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484243628593",
+    "project_id": "mrhirepro",
+    "storage_bucket": "mrhirepro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484243628593:android:6cdb5f2a62d62d30e0ab10",
+        "android_client_info": {
+          "package_name": "com.example.mrhirep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484243628593-cj2ac9bqlkr4lhlv86g744a1cp9di4cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOP3TO3b8jrqT9Nvm2L8EiAyavKc_3SkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484243628593-cj2ac9bqlkr4lhlv86g744a1cp9di4cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
